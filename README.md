@@ -15,4 +15,4 @@ Documentation of steps :
 
 5) Then security.md file was made which consisted of how the secrets.txt file was handled
 
-
+6) Random text to demo head commit delete
